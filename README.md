@@ -7,8 +7,11 @@ Welcome to my learning repository! I am documenting my daily progress as I prepa
 - [x] Initialized public GitHub portfolio to host future scripts.
 - [ ] Complete Week 1 of Computer Networking fundamentals.
 - [ ] Solve first 5 PicoCTF cryptography challenges.
-
+- [x] todays achivements
 ### 🧠 Day 1 Notes: Cryptography Basics
 - Learned that ciphers use mathematical rules to encrypt plaintext into ciphertext.
 - Practiced the Caesar Cipher mechanism using directional alphabetic shifts.
 
+### 🧠 Day 1 Notes: Cryptography & Binary Basics
+- Decoded a Caesar Cipher manually using alphabetical reverse-shifts.
+- Mastered Base-2 conversion: Successfully calculated that decimal 10 is written as `1010` in binary language.
