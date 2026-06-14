@@ -15,3 +15,4 @@ Welcome to my learning repository! I am documenting my daily progress as I prepa
 ### 🧠 Day 1 Notes: Cryptography & Binary Basics
 - Decoded a Caesar Cipher manually using alphabetical reverse-shifts.
 - Mastered Base-2 conversion: Successfully calculated that decimal 10 is written as `1010` in binary language.
+- Learned **Patching**: The vital security practice of deploying code updates to fix known vulnerabilities before threat actors can exploit them.
