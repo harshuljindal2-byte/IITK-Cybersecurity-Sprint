@@ -20,3 +20,8 @@ Welcome to my learning repository! I am documenting my daily progress as I prepa
 - [x] Completed Module 1 (Introduction to Cybersecurity) on Coursera.
 - [x] Completed Module 2 (Evolution of Cybersecurity) on Coursera.
 - [x] Mastered core security terminology: Vulnerabilities, Patching, Social Engineering, and Compliance.
+### 📊 Day 2/3 Progress:
+- [x] Completed Module 1 (Introduction to Cybersecurity) on Coursera.
+- [x] Completed Module 2 (Evolution of Cybersecurity) on Coursera.
+- [x] Completed Module 3 (Cybersecurity Tools and Ecosystems) on Coursera.
+- [x] Mastered core concepts of SIEM logs, Firewalls, Playbooks, and Database Security.
