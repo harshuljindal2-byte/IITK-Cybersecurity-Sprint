@@ -49,3 +49,11 @@ Welcome to my learning repository! I am documenting my daily progress as I prepa
 - **Google Cybersecurity: Foundations of Cybersecurity** (Course 1 Learning Completed) 🎓
   - *Status:* Modules 1-4 completed. 7-Day Free Trial activated; currently finalizing Coursera quiz blocks to export the verified certificate.
   - *Core Competencies:* Mastered the CIA Triad, Risk Mitigation, Social Engineering vectors, and Compliance Frameworks (NIST CSF, GDPR, DPDP Act).
+
+#### 🧠 Day 4: Technical Control & Risk Architecture Sprint (Today)
+- **Firewall Scripting:** Successfully mapped conditional logical operators (`if/else`) in a Python script to mimic an automated network firewall Access Control List (ACL).
+- **Network Fundamentals:** Learned IPv4 structure, octet limitations (0-255 bounds), and binary-to-decimal packet routing mechanisms.
+- **Risk & Architecture Principles:**
+  - *Principle of Least Privilege (PoLP):* Studied standard implementation models to restrict user permissions to baseline parameters.
+  - *Mathematical Risk:* Analyzed risk metrics using the formula ($\text{Risk} = \text{Likelihood} \times \text{Impact}$).
+  - *Governance & Cloud:* Mastered the functional pillars of the **NIST CSF**, independent **Security Audits**, global **GDPR** mandates, and the Cloud **Shared Responsibility Model**.
