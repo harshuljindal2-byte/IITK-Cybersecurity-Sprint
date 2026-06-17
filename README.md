@@ -57,3 +57,12 @@ Welcome to my learning repository! I am documenting my daily progress as I prepa
   - *Principle of Least Privilege (PoLP):* Studied standard implementation models to restrict user permissions to baseline parameters.
   - *Mathematical Risk:* Analyzed risk metrics using the formula ($\text{Risk} = \text{Likelihood} \times \text{Impact}$).
   - *Governance & Cloud:* Mastered the functional pillars of the **NIST CSF**, independent **Security Audits**, global **GDPR** mandates, and the Cloud **Shared Responsibility Model**.
+  - 
+#### 🧠 Day 5: Security Operations (SecOps) & Active Defense (Today)
+- **SIEM Systems:** Learned how tools like Splunk and Google Chronicle ingest massive server data logs to trace malicious telemetry.
+- **Incident Response:** Studied the structure of Playbooks and the functional execution steps to contain a live breach.
+- **Detection Architecture:** Analyzed Intrusion Detection Systems (IDS) vs. Intrusion Prevention Systems (IPS) using signature and anomaly detection loops.
+- learned about the security audits, its purpose and its benefits
+- Made my own first security audit as an security professinal at a fictional company [bottons toy's company]
+- learned about playbooks and various phases of incident response playbooks
+- learned about how siem tools and playbooks word together
