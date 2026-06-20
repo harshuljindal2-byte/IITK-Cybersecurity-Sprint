@@ -74,3 +74,9 @@ Welcome to my learning repository! I am documenting my daily progress as I prepa
 - different types of operating systems
 - learned about linux operating system
 - learned about linux distribution
+#### 🧠 Day 7: Certification, hands on practical activity and Profile Optimization 
+- learned great thing about linux operating sytem
+- done various activities to learn to manage the directories and files at linux through coursera
+- learned different linux distributions
+- learned about kali linux
+- earned my first badge at picoCTF IN 'mod26' and in general skills also 
