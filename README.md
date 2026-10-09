@@ -1,5 +1,5 @@
 # 🛡️ My IIT Kanpur B.Cyber Preparation Log
-
+#WORKED HARD AND LEARNED GREAT THINGS FROM THIS JOURNEY
 Welcome to my learning repository! I am documenting my daily progress as I prepare for the selection hackathon at the Wadhwani School of AI, IIT Kanpur.
 
 ### 📈 Current Milestones:
